@@ -27,6 +27,8 @@ img {
 }
 
 .gallery-link {
+  width: 360px;
+  height: 300px;
   border-radius: 4px;
   overflow: hidden;
   transition: transform 250ms cubic-bezier(0.215, 0.61, 0.355, 1);
